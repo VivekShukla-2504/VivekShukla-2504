@@ -1,10 +1,6 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  CYBERPUNK HERO BANNER                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Vivek%20Shukla&fontSize=60&fontColor=00f5ff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Java%20Backend%20%7C%20MCA%20%40%20JNU&descSize=18&descAlignY=62&descColor=c0c0ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=Vivek%20Shukla&fontSize=62&fontColor=00f5ff&animation=twinkling&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20Python%20%7C%20MCA%20%40%20JNU&descSize=17&descAlignY=63&descColor=c0c0ff"/>
 
 </div>
 
@@ -12,21 +8,13 @@
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   TYPEWRITER EFFECT                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=☕+Java+%7C+Spring+Boot+%7C+Full+Stack;⚛+React+%7C+Node.js+%7C+REST+APIs;🧠+ML+%7C+Python+%7C+Data+Analytics;🚀+600%2B+LeetCode+%7C+DSA+Master;🎓+MCA+%40+JNU+%7C+SDE+Aspirant)](https://github.com/VivekShukla-2504)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=750&height=50&lines=⚛+React+%7C+Node.js+%7C+Full+Stack+Developer;🐍+Python+%7C+Machine+Learning+%7C+Data+Science;🗄+SQL+%7C+MongoDB+%7C+REST+APIs;🧩+600%2B+LeetCode+%7C+DSA+Enthusiast;🎓+MCA+%40+JNU+%7C+SDE+Aspirant)](https://github.com/VivekShukla-2504)
 
 </div>
 
 ---
 
 <div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  SOCIAL BADGES NEON                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 [![GitHub](https://img.shields.io/badge/GitHub-VivekShukla--2504-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d1117)](https://github.com/VivekShukla-2504)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=0d1117)](https://www.linkedin.com/in/vivek-shukla-1a229b27b/)
@@ -45,42 +33,38 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--              GLASSMORPHISM ABOUT ME CARD                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <table>
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
 ## 🧬 `whoami`
 
 ```typescript
 const vivek: Developer = {
-  name:       "Vivek Shukla",
-  education:  "MCA @ Jawaharlal Nehru University",
-  role:       "Full Stack Developer",
-  primary:    "Java ☕",
+  name        : "Vivek Shukla",
+  education   : "MCA @ Jawaharlal Nehru University",
+  role        : "Full Stack Developer",
 
-  backend:    ["Spring Boot", "Node.js", "REST APIs"],
-  frontend:   ["React", "Tailwind CSS", "HTML/CSS"],
-  database:   ["MySQL", "MongoDB"],
-  tools:      ["Git", "Docker", "Postman", "Linux"],
+  frontend    : ["React", "Tailwind CSS", "HTML/CSS/JS"],
+  backend     : ["Node.js", "Express", "REST APIs"],
+  database    : ["MySQL", "MongoDB"],
+  ml          : ["Python", "Scikit-Learn", "Pandas"],
+  tools       : ["Git", "Docker", "Postman", "Linux"],
 
-  interests:  [
-    "Artificial Intelligence 🤖",
-    "Machine Learning 📊",
+  interests   : [
+    "Machine Learning 🤖",
+    "Data Analytics 📊",
     "System Design 🏗",
     "Cloud Computing ☁",
   ],
 
-  goal:       "SDE @ Google | Microsoft | Amazon 🚀",
-  funFact:    "I debug with console.log AND a rubber duck 🦆",
+  goal        : "SDE @ Google | Microsoft | Amazon 🚀",
+  funFact     : "I debug with console.log + a rubber duck 🦆",
 };
 ```
 
 </td>
-<td width="45%">
+<td width="45%" valign="top">
 
 ## ⚡ Quick Facts
 
@@ -96,14 +80,14 @@ const vivek: Developer = {
    Delhi, India
 
 🔥 Current Focus:
-   Spring Boot + React + DSA
+   React + Node.js + DSA
 
 🎯 2026 Mission:
-   - ✅ 600+ LeetCode Problems
-   - 🚧 20+ Production Projects
-   - 🚧 Master System Design
-   - 🚧 AWS + Docker + K8s
-   - 🚧 Crack SDE Interview
+   ✅ 600+ LeetCode Problems
+   🚧 20+ Production Projects
+   🚧 Master System Design
+   🚧 AWS + Docker + K8s
+   🚧 Crack SDE Interview
 
 📚 Reading:
    Clean Code + DDIA
@@ -118,20 +102,15 @@ const vivek: Developer = {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               ANIMATED TECH STACK GRID                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## 🛠 Tech Arsenal
 
 <div align="center">
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java — Primary Language"/>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python — ML & Scripting"/>
-<img src="https://skillicons.dev/icons?i=javascript&theme=dark" title="JavaScript — Frontend & Backend"/>
-<img src="https://skillicons.dev/icons?i=typescript&theme=dark" title="TypeScript — Type-safe JS"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python"/>
+<img src="https://skillicons.dev/icons?i=javascript&theme=dark" title="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=typescript&theme=dark" title="TypeScript"/>
 <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5"/>
 <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3"/>
 <img src="https://skillicons.dev/icons?i=sql&theme=dark" title="SQL"/>
@@ -147,7 +126,6 @@ const vivek: Developer = {
 
 ### 🌐 Backend
 <p>
-<img src="https://skillicons.dev/icons?i=spring&theme=dark" title="Spring Boot"/>
 <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js"/>
 <img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express.js"/>
 </p>
@@ -183,37 +161,27 @@ const vivek: Developer = {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--          SKILL PROFICIENCY BARS (CUSTOM SVG)              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## 📊 Skill Proficiency
 
 ```
- ☕ Java              ████████████████████████████████████████ 95%
- 🐍 Python            ██████████████████████████████████░░░░░  85%
+ 🐍 Python            ████████████████████████████████████░░░  85%
  ⚛  React             ██████████████████████████████░░░░░░░░░  75%
- 🌱 Spring Boot       ████████████████████████░░░░░░░░░░░░░░░  60%
  🌐 Node.js           ████████████████████████████████░░░░░░░  80%
  🗄  SQL (MySQL)       ██████████████████████████████████████░  90%
  🍃 MongoDB           ████████████████████████████░░░░░░░░░░░  70%
+ 🧠 Machine Learning  ██████████████████████░░░░░░░░░░░░░░░░░  55%
  🐳 Docker            ████████████████░░░░░░░░░░░░░░░░░░░░░░░  40%
  ☁  AWS               ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░  30%
- 🧠 Machine Learning  ██████████████████████░░░░░░░░░░░░░░░░░  55%
 ```
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--              GITHUB ANALYTICS DASHBOARD                   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📈 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/VivekShukla-2504">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VivekShukla-2504&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9&border_color=00f5ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VivekShukla-2504&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekShukla-2504&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9"/>
 </a>
 
@@ -245,15 +213,11 @@ const vivek: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VivekShukla-2504&theme=matrix&no-frame=true&column=4&margin-w=12&margin-h=12&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews,MultiLanguage"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VivekShukla-2504&theme=matrix&no-frame=true&column=4&margin-w=12&margin-h=12"/>
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   PROJECT SHOWCASE                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
@@ -279,9 +243,9 @@ const vivek: Developer = {
 **Stack:** `Python` `Scikit-Learn` `NLP` `Pandas` `NumPy`
 
 - ✅ TF-IDF Feature Extraction
-- ✅ Multinomial Naive Bayes Model
-- ✅ 97%+ Accuracy on Test Set
+- ✅ Naive Bayes Model — 97%+ Accuracy
 - ✅ Data Cleaning & EDA Pipeline
+- ✅ Streamlit Demo UI
 
 [![Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=flat-square&logo=github&logoColor=00f5ff)](https://github.com/VivekShukla-2504)
 
@@ -295,8 +259,8 @@ const vivek: Developer = {
 
 - ✅ Exploratory Data Analysis
 - ✅ Feature Engineering
-- ✅ Linear & Polynomial Regression
-- ✅ Time Series Forecasting
+- ✅ Regression + Time Series
+- ✅ Visual Insights Dashboard
 
 [![Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=flat-square&logo=github&logoColor=00f5ff)](https://github.com/VivekShukla-2504)
 
@@ -342,10 +306,10 @@ const vivek: Developer = {
 
 **Stack:** `SQL` `Excel` `Python` `Power BI`
 
-- ✅ KPI Dashboards
+- ✅ KPI Dashboards & Reports
 - ✅ Data Cleaning Pipelines
-- ✅ Automated Reports
 - ✅ Field Analytics
+- ✅ Automated Summaries
 
 [![Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=flat-square&logo=github&logoColor=00f5ff)](https://github.com/VivekShukla-2504)
 
@@ -369,10 +333,6 @@ const vivek: Developer = {
 </table>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                DSA JOURNEY DASHBOARD                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🧩 DSA Journey — LeetCode Progress
 
@@ -399,41 +359,9 @@ const vivek: Developer = {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               LEARNING ROADMAP 2026                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🗺 2026 Roadmap
-
-```mermaid
-roadmap
-    title Vivek's 2026 Developer Roadmap
-    section ✅ Completed
-        Java Core & OOP       : done, 2023-01-01, 2024-01-01
-        HTML CSS JavaScript   : done, 2023-06-01, 2024-01-01
-        Python & SQL          : done, 2024-01-01, 2024-06-01
-        Machine Learning      : done, 2024-06-01, 2025-01-01
-        React Fundamentals    : done, 2025-01-01, 2025-06-01
-    section 🚀 In Progress
-        Spring Boot           : active, 2025-06-01, 2026-06-01
-        React Advanced        : active, 2025-06-01, 2026-03-01
-        DSA 600+ Problems     : active, 2025-01-01, 2026-06-01
-    section 🎯 Next
-        Docker & Kubernetes   : 2026-03-01, 2026-09-01
-        AWS Cloud             : 2026-06-01, 2027-01-01
-        Microservices         : 2026-06-01, 2027-01-01
-        System Design         : 2026-09-01, 2027-06-01
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--              CAREER TIMELINE (CUSTOM SVG)                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## 📅 Career Timeline
 
-```text
+```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
   2023 ──●── Started Coding Journey
@@ -444,12 +372,12 @@ roadmap
          │    NumPy · Pandas · Scikit-Learn
          │
   2025 ──●── Full Stack Transformation
-         │    Java · React · Node.js · MongoDB
+         │    React · Node.js · MongoDB
          │    Data Analytics · Power BI
          │
-  2026 ──●── MCA @ JNU + Spring Boot Master
-         │    Spring Boot · Docker · DSA 600+
-         │    AWS · System Design · Open Source
+  2026 ──●── MCA @ JNU + DSA Grind
+         │    Docker · AWS · System Design
+         │    600+ LeetCode · Open Source
          │
   2027 ──★── Software Engineer 🚀
               Google | Microsoft | NVIDIA | Amazon
@@ -459,27 +387,19 @@ roadmap
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--          WEEKLY CODING SCHEDULE (TABLE)                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## 📅 Weekly Coding Schedule
 
 | Day | Morning | Afternoon | Evening |
 |-----|---------|-----------|---------|
-| **Mon** | ☕ Java + DSA | 🌱 Spring Boot | 📖 System Design |
-| **Tue** | ⚛ React | 🗄 SQL Practice | 🧩 LeetCode |
-| **Wed** | 🌱 Spring Boot | 🛠 Build Project | 🐳 Docker |
+| **Mon** | 🐍 Python + DSA | ⚛ React | 📖 System Design |
+| **Tue** | ⚛ React Advanced | 🗄 SQL Practice | 🧩 LeetCode |
+| **Wed** | 🌐 Node.js APIs | 🛠 Build Project | 🐳 Docker |
 | **Thu** | 🧠 Machine Learning | 📊 Data Analysis | 📖 Reading |
 | **Fri** | 💻 Full Stack Project | 🌐 APIs | 🔧 Debug & Fix |
 | **Sat** | 🧩 LeetCode Contest | 🏗 System Design | 🌍 Open Source |
 | **Sun** | 📚 Documentation | 🚀 Deploy | 🔄 Review Week |
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  SNAKE ANIMATION                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🐍 GitHub Contribution Snake
 
@@ -491,15 +411,9 @@ roadmap
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/VivekShukla-2504/VivekShukla-2504/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-> ⚡ _Enable GitHub Actions (see workflow below) to activate the snake!_
-
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                GITHUB METRICS CARD                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📊 Advanced GitHub Metrics
 
@@ -517,41 +431,34 @@ roadmap
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                CERTIFICATIONS & GOALS                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## 🏅 Achievements & Certifications
 
 | Badge | Status | Details |
 |-------|--------|---------|
 | 🎓 MCA @ JNU | ✅ Enrolled | Jawaharlal Nehru University — 2026 |
 | 🎓 BCA Graduate | ✅ Completed | Bachelor of Computer Applications |
-| ☕ Java Core | ✅ Certified | Advanced Java Programming |
-| 🌱 Spring Boot | 🚧 In Progress | REST APIs + Security + JPA |
+| 🐍 Python Advanced | ✅ Done | ML & Data Science Projects |
+| ⚛ React Developer | 🚧 In Progress | Full Stack Projects |
 | ☁ AWS Cloud Practitioner | 🎯 Planned | Q3 2026 |
 | 🐳 Docker Certified | 🎯 Planned | Q4 2026 |
-| ⚛ React Certification | 🎯 Planned | 2026 |
 | 🏆 Hacktoberfest | 🎯 Planned | October 2026 |
 
 ---
 
 ## 🎯 2026 Checklist
 
-- [x] ☕ Java Core & OOP
 - [x] 📊 SQL & Database Design
 - [x] 🌐 HTML / CSS / JavaScript
 - [x] ⚛ React Fundamentals
 - [x] 🟩 Node.js + Express
 - [x] 🍃 MongoDB Basics
 - [x] 🐍 Python + ML Projects
-- [ ] 🌱 Spring Boot (Advanced)
-- [ ] 🔐 Spring Security
+- [ ] ⚛ React Advanced Patterns
+- [ ] 🌐 Node.js — Advanced
 - [ ] 🐳 Docker + Compose
 - [ ] ☁ AWS (EC2, S3, RDS)
 - [ ] 🏗 Microservices Architecture
 - [ ] 🔴 Redis Caching
-- [ ] 📮 Kafka Messaging
 - [ ] ⚓ Kubernetes
 - [ ] 🧩 600+ LeetCode Problems
 - [ ] 🏗 System Design (HLD + LLD)
@@ -560,43 +467,28 @@ roadmap
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               PHILOSOPHY & PRINCIPLES                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## 💡 Developer Philosophy
 
-```java
+```javascript
 /**
  * @author  Vivek Shukla
  * @version 2026.SDE
- * @since   Day 1 of Coding Journey
  */
-public class VivekShukla implements Developer {
+const vivekLoop = () => {
+  const MOTTO = "First make it work. Then make it right. Then make it fast.";
 
-    private static final String MOTTO =
-        "First make it work. Then make it right. Then make it fast.";
+  while (true) {
+    drink("☕ coffee");
+    learn("something new");
+    build("real projects");
+    solve("DSA problems");
+    push("to GitHub");
+    sleep(6); // recharge ⚡
+  }
+};
 
-    @Override
-    public void dailyRoutine() {
-        while (alive) {
-            drink(COFFEE);
-            learn(SOMETHING_NEW);
-            build(REAL_PROJECTS);
-            solve(DSA_PROBLEMS);
-            pushTo(GITHUB);
-            sleep(6);  // recharge ⚡
-        }
-    }
-
-    @Override
-    public String getDreamCompany() {
-        return Arrays.asList("Google", "Microsoft", "Amazon", "NVIDIA")
-                     .stream()
-                     .findFirst()
-                     .orElse("Build My Own Startup 🚀");
-    }
-}
+const dreamRole = ["Google", "Microsoft", "Amazon", "NVIDIA"]
+  .at(0) ?? "Build My Own Startup 🚀";
 ```
 
 > **"The best code is no code. The second best is clean, readable, maintainable code."**
@@ -608,7 +500,7 @@ public class VivekShukla implements Developer {
 | Book | Status | Rating |
 |------|--------|--------|
 | 📘 Clean Code — Robert C. Martin | 🔄 Reading | ⭐⭐⭐⭐⭐ |
-| 📗 Effective Java — Joshua Bloch | 🔄 Reading | ⭐⭐⭐⭐⭐ |
+| 📗 Effective JavaScript — D. Herman | 🔄 Reading | ⭐⭐⭐⭐⭐ |
 | 📙 Designing Data-Intensive Apps | 🔖 Up Next | ⭐⭐⭐⭐⭐ |
 | 📕 System Design Interview | 🔖 Up Next | ⭐⭐⭐⭐⭐ |
 | 📒 Grokking Algorithms | ✅ Done | ⭐⭐⭐⭐ |
@@ -621,9 +513,9 @@ public class VivekShukla implements Developer {
 $ git clone https://github.com/VivekShukla-2504/open-source-journey
 
 🌱 Goals:
-   → Fix beginner-friendly issues in Java/React repos
+   → Fix beginner-friendly issues in React / Node.js repos
    → Participate in Hacktoberfest 2026
-   → Publish reusable Spring Boot starters
+   → Publish reusable npm packages
    → Contribute to documentation
    → Help devs via code reviews & comments
 
@@ -649,22 +541,12 @@ $ git clone https://github.com/VivekShukla-2504/open-source-journey
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--              ANIMATED FOOTER WAVE                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:24243e,50:302b63,100:0f0c29&fontColor=00f5ff&text=Let's%20Build%20Something%20Amazing%20Together%20🚀&fontSize=20&fontAlignY=70&animation=twinkling"/>
 
-</div>
-
-<div align="center">
-
 **⭐ Star this profile if you found it cool! | 🤝 Open to collaborations!**
 
 *"One commit at a time. One problem at a time. One day at a time."*
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_Right.svg)
 
 </div>
