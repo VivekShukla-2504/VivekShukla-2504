@@ -105,11 +105,7 @@ const vivek: Developer = {
    - 🚧 AWS + Docker + K8s
    - 🚧 Crack SDE Interview
 
-📚 Reading:
-   Clean Code + DDIA
 
-⚡ Superpower:
-   Turning coffee → code ☕
 ```
 
 </td>
