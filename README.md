@@ -62,7 +62,7 @@ const vivek: Developer = {
   role:       "Full Stack Developer",
   primary:    "Java ☕",
 
-  backend:    ["Spring Boot", "Node.js", "REST APIs"],
+  backend:    ["Express.js", "Node.js", "REST APIs"],
   frontend:   ["React", "Tailwind CSS", "HTML/CSS"],
   database:   ["MySQL", "MongoDB"],
   tools:      ["Git", "Docker", "Postman", "Linux"],
@@ -71,10 +71,10 @@ const vivek: Developer = {
     "Artificial Intelligence 🤖",
     "Machine Learning 📊",
     "System Design 🏗",
-    "Cloud Computing ☁",
+    "Web Development",
   ],
 
-  goal:       "SDE @ Google | Microsoft | Amazon 🚀",
+  
   funFact:    "I debug with console.log AND a rubber duck 🦆",
 };
 ```
@@ -86,7 +86,7 @@ const vivek: Developer = {
 
 ```yaml
 🎓 Education:
-   MCA — JNU (2026)
+   MCA — JNU (2025-2027)
    BCA Graduate
 
 💼 Role:
@@ -96,11 +96,11 @@ const vivek: Developer = {
    Delhi, India
 
 🔥 Current Focus:
-   Spring Boot + React + DSA
+    MERN + DSA
 
 🎯 2026 Mission:
-   - ✅ 600+ LeetCode Problems
-   - 🚧 20+ Production Projects
+   - ✅ 400+ LeetCode Problems
+   - 🚧 5+ Production Projects
    - 🚧 Master System Design
    - 🚧 AWS + Docker + K8s
    - 🚧 Crack SDE Interview
@@ -293,7 +293,7 @@ const vivek: Developer = {
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/VivekShukla-2504/VivekShukla-2504/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-> ⚡ _Enable GitHub Actions (see workflow below) to activate the snake!_
+
 
 </div>
 
@@ -374,7 +374,7 @@ public class VivekShukla implements Developer {
 | 💼 LinkedIn | [vivek-shukla-1a229b27b](https://www.linkedin.com/in/vivek-shukla-1a229b27b/) | Professional Network |
 | 🐙 GitHub | [VivekShukla-2504](https://github.com/VivekShukla-2504) | Code & Projects |
 | 🧩 LeetCode | [Vivek_Shukla_25](https://leetcode.com/u/Vivek_Shukla_25/) | DSA Practice |
-| 📧 Email | vivekshukla@example.com | Collaborations & Hiring |
+| 📧 Email | 7800652515vivek@gmail.com | Collaborations & Hiring |
 
 </div>
 
@@ -396,6 +396,5 @@ public class VivekShukla implements Developer {
 
 *"One commit at a time. One problem at a time. One day at a time."*
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_Right.svg)
 
 </div>
