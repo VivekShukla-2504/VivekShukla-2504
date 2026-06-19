@@ -4,7 +4,7 @@
 <!--                  CYBERPUNK HERO BANNER                    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Vivek%20Shukla&fontSize=60&fontColor=00f5ff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Java%20Backend%20%7C%20MCA%20%40%20JNU&descSize=18&descAlignY=62&descColor=c0c0ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Vivek%20Shukla&fontSize=60&fontColor=00f5ff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Jav%20%7C%20MCA%20%40%20JNU&descSize=18&descAlignY=62&descColor=c0c0ff"/>
 
 </div>
 
