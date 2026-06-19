@@ -325,45 +325,6 @@ const vivek: Developer = {
 
 
 
-## 💡 Developer Philosophy
-
-```java
-/**
- * @author  Vivek Shukla
- * @version 2026.SDE
- * @since   Day 1 of Coding Journey
- */
-public class VivekShukla implements Developer {
-
-    private static final String MOTTO =
-        "First make it work. Then make it right. Then make it fast.";
-
-    @Override
-    public void dailyRoutine() {
-        while (alive) {
-            drink(COFFEE);
-            learn(SOMETHING_NEW);
-            build(REAL_PROJECTS);
-            solve(DSA_PROBLEMS);
-            pushTo(GITHUB);
-            sleep(6);  // recharge ⚡
-        }
-    }
-
-    @Override
-    public String getDreamCompany() {
-        return Arrays.asList("Google", "Microsoft", "Amazon", "NVIDIA")
-                     .stream()
-                     .findFirst()
-                     .orElse("Build My Own Startup 🚀");
-    }
-}
-```
-
-> **"The best code is no code. The second best is clean, readable, maintainable code."**
-
----
-
 
 ## 🔗 Connect With Me
 
@@ -394,7 +355,7 @@ public class VivekShukla implements Developer {
 
 **⭐ Star this profile if you found it cool! | 🤝 Open to collaborations!**
 
-*"One commit at a time. One problem at a time. One day at a time."*
+
 
 
 </div>
