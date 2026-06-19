@@ -16,7 +16,7 @@
 <!--                   TYPEWRITER EFFECT                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=☕+Java+%7C+Spring+Boot+%7C+Full+Stack;⚛+React+%7C+Node.js+%7C+REST+APIs;🧠+ML+%7C+Python+%7C+Data+Analytics;🚀+600%2B+LeetCode+%7C+DSA+Master;🎓+MCA+%40+JNU+%7C+SDE+Aspirant)](https://github.com/VivekShukla-2504)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=☕+Java+%7C+%7C+Full+Stack;⚛+React+%7C+Node.js+%7C+REST+APIs;🧠+ML+%7C+Python+%7C+Data+Analytics;🚀+200%2B+LeetCode+%7C+DSA+Master;🎓+MCA+%40+JNU+%7C+SDE+Aspirant)](https://github.com/VivekShukla-2504)
 
 </div>
 
@@ -172,13 +172,12 @@ const vivek: Developer = {
 
 ### 🧠 AI / ML
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" title="TensorFlow"/>
-<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" title="Scikit-Learn"/>
-<img src="https://skillicons.dev/icons?i=numpy&theme=dark" title="NumPy"/>
-<img src="https://skillicons.dev/icons?i=pandas&theme=dark" title="Pandas"/>
-<img src="https://skillicons.dev/icons?i=jupyter&theme=dark" title="Jupyter Notebook"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" title="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=numpy&theme=dark" title="NumPy"/>
+  <img src="https://skillicons.dev/icons?i=pandas&theme=dark" title="Pandas"/>
+  <img src="https://skillicons.dev/icons?i=jupyter&theme=dark" title="Jupyter"/>
 </p>
-
 </div>
 
 
