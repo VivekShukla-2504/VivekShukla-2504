@@ -31,7 +31,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-VivekShukla--2504-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d1117)](https://github.com/VivekShukla-2504)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=0d1117)](https://www.linkedin.com/in/vivek-shukla-1a229b27b/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Solved-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117)](https://leetcode.com/u/Vivek_Shukla_25/)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:7800652515vivek@gmail.com)
+[![Email](https://img.shields.io/badge/Email-7800652515vivek@gmail.com%20-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:7800652515vivek@gmail.com)
 
 </div>
 
@@ -171,12 +171,10 @@ const vivek: Developer = {
 </p>
 
 ### 🧠 AI / ML
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" title="TensorFlow"/>
   <img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=numpy&theme=dark" title="NumPy"/>
-  <img src="https://skillicons.dev/icons?i=pandas&theme=dark" title="Pandas"/>
-  <img src="https://skillicons.dev/icons?i=jupyter&theme=dark" title="Jupyter"/>
+
 </p>
 </div>
 
@@ -242,7 +240,7 @@ const vivek: Developer = {
 | 📚 **Machine Learning Concepts & Projects** | Collection of ML algorithms and implementations |
 | 🖥️ **Window Resizer (Python)** | Desktop automation project using Python |
 | ⚖️ **BMI Calculator** | Body Mass Index Calculator |
-| 🎯 **Guess Number Game** | Simple Python Number Guessing Game |
+| 🎯 **Guess Number Game** | Simple  Number Guessing Game Using JS |
 | 🎨 **Web Window Color Changer** | HTML, CSS & JavaScript mini project |
 
 </div>
