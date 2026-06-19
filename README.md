@@ -181,28 +181,6 @@ const vivek: Developer = {
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--          SKILL PROFICIENCY BARS (CUSTOM SVG)              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📊 Skill Proficiency
-
-```
- ☕ Java              ████████████████████████████████████████ 95%
- 🐍 Python            ██████████████████████████████████░░░░░  85%
- ⚛  React             ██████████████████████████████░░░░░░░░░  75%
- 🌱 Spring Boot       ████████████████████████░░░░░░░░░░░░░░░  60%
- 🌐 Node.js           ████████████████████████████████░░░░░░░  80%
- 🗄  SQL (MySQL)       ██████████████████████████████████████░  90%
- 🍃 MongoDB           ████████████████████████████░░░░░░░░░░░  70%
- 🐳 Docker            ████████████████░░░░░░░░░░░░░░░░░░░░░░░  40%
- ☁  AWS               ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░  30%
- 🧠 Machine Learning  ██████████████████████░░░░░░░░░░░░░░░░░  55%
-```
-
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--              GITHUB ANALYTICS DASHBOARD                   -->
@@ -241,15 +219,7 @@ const vivek: Developer = {
 
 ---
 
-## 🏆 GitHub Trophy Cabinet
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VivekShukla-2504&theme=matrix&no-frame=true&column=4&margin-w=12&margin-h=12&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews,MultiLanguage"/>
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   PROJECT SHOWCASE                        -->
@@ -304,112 +274,10 @@ const vivek: Developer = {
   https://github.com/VivekShukla-2504/MERN/tree/main/Webwindow_color_change
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                DSA JOURNEY DASHBOARD                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🧩 DSA Journey — LeetCode Progress
 
-<div align="center">
 
-[![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/Vivek_Shukla_25?theme=dark)](https://leetcode.com/u/Vivek_Shukla_25/)
 
-</div>
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  📊 TOPIC-WISE PROGRESS                          TARGET: 600+   ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Arrays & Strings     ████████████████████████░░  ~90% Done     ║
-║  Linked Lists         █████████████████████░░░░░  ~80% Done     ║
-║  Stack & Queue        ██████████████████████░░░░  ~85% Done     ║
-║  Binary Search        ████████████████████░░░░░░  ~75% Done     ║
-║  Trees & BST          ████████████████░░░░░░░░░░  ~60% Done     ║
-║  Heap / Priority Q    ██████████████░░░░░░░░░░░░  ~50% Done     ║
-║  Graphs               ██████████░░░░░░░░░░░░░░░░  ~35% Done     ║
-║  Dynamic Programming  ████████░░░░░░░░░░░░░░░░░░  ~25% Done     ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               LEARNING ROADMAP 2026                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🗺 2026 Roadmap
-
-```mermaid
-roadmap
-    title Vivek's 2026 Developer Roadmap
-    section ✅ Completed
-        Java Core & OOP       : done, 2023-01-01, 2024-01-01
-        HTML CSS JavaScript   : done, 2023-06-01, 2024-01-01
-        Python & SQL          : done, 2024-01-01, 2024-06-01
-        Machine Learning      : done, 2024-06-01, 2025-01-01
-        React Fundamentals    : done, 2025-01-01, 2025-06-01
-    section 🚀 In Progress
-        Spring Boot           : active, 2025-06-01, 2026-06-01
-        React Advanced        : active, 2025-06-01, 2026-03-01
-        DSA 600+ Problems     : active, 2025-01-01, 2026-06-01
-    section 🎯 Next
-        Docker & Kubernetes   : 2026-03-01, 2026-09-01
-        AWS Cloud             : 2026-06-01, 2027-01-01
-        Microservices         : 2026-06-01, 2027-01-01
-        System Design         : 2026-09-01, 2027-06-01
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--              CAREER TIMELINE (CUSTOM SVG)                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📅 Career Timeline
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  2023 ──●── Started Coding Journey
-         │    HTML · CSS · JavaScript · Git
-         │
-  2024 ──●── Python + Data Science Era
-         │    Python · SQL · Machine Learning
-         │    NumPy · Pandas · Scikit-Learn
-         │
-  2025 ──●── Full Stack Transformation
-         │    Java · React · Node.js · MongoDB
-         │    Data Analytics · Power BI
-         │
-  2026 ──●── MCA @ JNU + Spring Boot Master
-         │    Spring Boot · Docker · DSA 600+
-         │    AWS · System Design · Open Source
-         │
-  2027 ──★── Software Engineer 🚀
-              Google | Microsoft | NVIDIA | Amazon
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--          WEEKLY CODING SCHEDULE (TABLE)                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📅 Weekly Coding Schedule
-
-| Day | Morning | Afternoon | Evening |
-|-----|---------|-----------|---------|
-| **Mon** | ☕ Java + DSA | 🌱 Spring Boot | 📖 System Design |
-| **Tue** | ⚛ React | 🗄 SQL Practice | 🧩 LeetCode |
-| **Wed** | 🌱 Spring Boot | 🛠 Build Project | 🐳 Docker |
-| **Thu** | 🧠 Machine Learning | 📊 Data Analysis | 📖 Reading |
-| **Fri** | 💻 Full Stack Project | 🌐 APIs | 🔧 Debug & Fix |
-| **Sat** | 🧩 LeetCode Contest | 🏗 System Design | 🌍 Open Source |
-| **Sun** | 📚 Documentation | 🚀 Deploy | 🔄 Review Week |
-
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  SNAKE ANIMATION                          -->
@@ -455,48 +323,7 @@ roadmap
 <!--                CERTIFICATIONS & GOALS                     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🏅 Achievements & Certifications
 
-| Badge | Status | Details |
-|-------|--------|---------|
-| 🎓 MCA @ JNU | ✅ Enrolled | Jawaharlal Nehru University — 2026 |
-| 🎓 BCA Graduate | ✅ Completed | Bachelor of Computer Applications |
-| ☕ Java Core | ✅ Certified | Advanced Java Programming |
-| 🌱 Spring Boot | 🚧 In Progress | REST APIs + Security + JPA |
-| ☁ AWS Cloud Practitioner | 🎯 Planned | Q3 2026 |
-| 🐳 Docker Certified | 🎯 Planned | Q4 2026 |
-| ⚛ React Certification | 🎯 Planned | 2026 |
-| 🏆 Hacktoberfest | 🎯 Planned | October 2026 |
-
----
-
-## 🎯 2026 Checklist
-
-- [x] ☕ Java Core & OOP
-- [x] 📊 SQL & Database Design
-- [x] 🌐 HTML / CSS / JavaScript
-- [x] ⚛ React Fundamentals
-- [x] 🟩 Node.js + Express
-- [x] 🍃 MongoDB Basics
-- [x] 🐍 Python + ML Projects
-- [ ] 🌱 Spring Boot (Advanced)
-- [ ] 🔐 Spring Security
-- [ ] 🐳 Docker + Compose
-- [ ] ☁ AWS (EC2, S3, RDS)
-- [ ] 🏗 Microservices Architecture
-- [ ] 🔴 Redis Caching
-- [ ] 📮 Kafka Messaging
-- [ ] ⚓ Kubernetes
-- [ ] 🧩 600+ LeetCode Problems
-- [ ] 🏗 System Design (HLD + LLD)
-- [ ] 🌍 Open Source Contributions
-- [ ] 💼 Crack SDE @ Product Company
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               PHILOSOPHY & PRINCIPLES                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 💡 Developer Philosophy
 
@@ -537,36 +364,6 @@ public class VivekShukla implements Developer {
 
 ---
 
-## 📚 Current Reading List
-
-| Book | Status | Rating |
-|------|--------|--------|
-| 📘 Clean Code — Robert C. Martin | 🔄 Reading | ⭐⭐⭐⭐⭐ |
-| 📗 Effective Java — Joshua Bloch | 🔄 Reading | ⭐⭐⭐⭐⭐ |
-| 📙 Designing Data-Intensive Apps | 🔖 Up Next | ⭐⭐⭐⭐⭐ |
-| 📕 System Design Interview | 🔖 Up Next | ⭐⭐⭐⭐⭐ |
-| 📒 Grokking Algorithms | ✅ Done | ⭐⭐⭐⭐ |
-
----
-
-## 🌍 Open Source Vision
-
-```bash
-$ git clone https://github.com/VivekShukla-2504/open-source-journey
-
-🌱 Goals:
-   → Fix beginner-friendly issues in Java/React repos
-   → Participate in Hacktoberfest 2026
-   → Publish reusable Spring Boot starters
-   → Contribute to documentation
-   → Help devs via code reviews & comments
-
-🚀 Why Open Source?
-   "The best way to learn is to read great code.
-    The second best way is to write it publicly."
-```
-
----
 
 ## 🔗 Connect With Me
 
