@@ -1,0 +1,39 @@
+name: 🔄 Auto Update Profile README
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with Live Data
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ─── Update LeetCode Stats ────────────────────────────────
+      - name: 🧩 Fetch LeetCode Stats
+        uses: JacobLinCool/LeetCode-Stats-Card@main
+        with:
+          username: Vivek_Shukla_25
+          theme: dark
+          output: assets/leetcode-stats.svg
+
+      # ─── Commit Changes ───────────────────────────────────────
+      - name: 💾 Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || \
+            git commit -m "🤖 Auto-update: $(date +'%Y-%m-%d %H:%M') IST [skip ci]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

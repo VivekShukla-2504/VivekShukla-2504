@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
+  <defs>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00f5ff"/>
+      <stop offset="30%"  stop-color="#7b2fff"/>
+      <stop offset="60%"  stop-color="#00f5ff"/>
+      <stop offset="100%" stop-color="#f5a623"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .title  { font: bold 52px 'Segoe UI', sans-serif; fill: url(#textGrad); filter: url(#glow); }
+      .sub    { font: 18px 'Courier New', monospace; fill: #00f5ff; letter-spacing: 4px; }
+      .line   { stroke: #00f5ff; stroke-width: 1; opacity: 0.4; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="120" fill="#0d1117" rx="12"/>
+
+  <!-- Decorative grid lines -->
+  <line x1="0"   y1="20"  x2="900" y2="20"  class="line"/>
+  <line x1="0"   y1="100" x2="900" y2="100" class="line"/>
+  <line x1="20"  y1="0"   x2="20"  y2="120" class="line"/>
+  <line x1="880" y1="0"   x2="880" y2="120" class="line"/>
+
+  <!-- Corner accents -->
+  <polyline points="20,0 20,20 0,20"   fill="none" stroke="#00f5ff" stroke-width="2"/>
+  <polyline points="880,0 880,20 900,20" fill="none" stroke="#00f5ff" stroke-width="2"/>
+  <polyline points="20,120 20,100 0,100"  fill="none" stroke="#00f5ff" stroke-width="2"/>
+  <polyline points="880,120 880,100 900,100" fill="none" stroke="#00f5ff" stroke-width="2"/>
+
+  <!-- Main Title -->
+  <text x="450" y="72" text-anchor="middle" class="title">VIVEK SHUKLA</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="95" text-anchor="middle" class="sub">SOFTWARE ENGINEER · FULL STACK · JAVA</text>
+</svg>
