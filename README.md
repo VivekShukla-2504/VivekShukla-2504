@@ -30,7 +30,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-VivekShukla--2504-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d1117)](https://github.com/VivekShukla-2504)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=0d1117)](https://www.linkedin.com/in/vivek-shukla-1a229b27b/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Solved-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117)](https://leetcode.com/u/Vivek_Shukla_25/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Solved-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117)](https://leetcode.com/u/Vivek_Shukla_25/)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:7800652515vivek@gmail.com)
 
 </div>
