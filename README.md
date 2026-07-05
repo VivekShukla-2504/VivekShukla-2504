@@ -179,18 +179,6 @@ const vivek: Developer = {
 <!--              GITHUB ANALYTICS DASHBOARD                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/VivekShukla-2504">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VivekShukla-2504&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9&border_color=00f5ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekShukla-2504&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9"/>
-</a>
-
-</div>
-
----
 
 ## 🔥 Contribution Streak
 
@@ -224,7 +212,8 @@ const vivek: Developer = {
 
 ## 🌟 Main Project
 
-[![GEN-AI Based AI Interview Platform](https://github-readme-stats.vercel.app/api/pin/?username=VivekShukla-2504&repo=GEN-AI-based-ai-interview-platform&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&icon_color=f5a623)](https://github.com/VivekShukla-2504/GEN-AI-based-ai-interview-platform)
+### 🚀 Gen-AI Interview Platform
+🔗 https://github.com/VivekShukla-2504/Gen-AI
 
 ---
 
