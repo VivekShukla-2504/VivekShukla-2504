@@ -215,6 +215,14 @@ const vivek: Developer = {
 ### 🚀 Gen-AI Interview Platform
 🔗 https://github.com/VivekShukla-2504/Gen-AI
 
+🎬 Streamify (Full Stack Web Application)
+
+🔗 https://github.com/VivekShukla-2504/Streamify
+
+📄 AI Invoice SaaS Platform
+
+🔗 https://github.com/VivekShukla-2504/AI-Invoice-SaaS-Platform
+
 ---
 
 ### Other Projects
