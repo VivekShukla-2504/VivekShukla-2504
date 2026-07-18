@@ -212,7 +212,11 @@ const vivek: Developer = {
 
 ## 🌟 Main Project
 
-### 🚀 Gen-AI Interview Platform
+### 🚛 TransitOps — Smart Transport Operations Platform
+🔗 https://github.com/VivekShukla-2504/TransitOps-Platform
+
+🚀 Gen-AI Interview Platform
+
 🔗 https://github.com/VivekShukla-2504/Gen-AI
 
 🎬 Streamify (Full Stack Web Application)
