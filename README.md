@@ -16,7 +16,9 @@
 <!--                     TYPEWRITER EFFECT                      -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%E2%9A%9B+MERN+Stack+Developer;%F0%9F%A4%96+AI+Enthusiast;%F0%9F%A7%A9+DSA+in+Java;%F0%9F%9A%80+350%2B+LeetCode+%7C+DSA+Problems;%F0%9F%8E%93+MCA+%40+JNU+%7C+SDE+Aspirant)](https://github.com/VivekShukla-2504)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Building+scalable+MERN+applications;Crafting+AI-powered+products+%F0%9F%A4%96;Solving+350%2B+DSA+problems+in+Java;MCA+%40+JNU+%7C+SDE+Aspirant+%F0%9F%9A%80)](https://github.com/VivekShukla-2504)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=React+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+Express+%C2%B7+Java+%C2%B7+Python)](https://github.com/VivekShukla-2504)
 
 </div>
 
@@ -29,12 +31,12 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 [![GitHub](https://img.shields.io/badge/GitHub-VivekShukla--2504-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0d1117)](https://github.com/VivekShukla-2504)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=0d1117)](https://www.linkedin.com/in/vivek-shukla-1a229b27b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://www.linkedin.com/in/vivek-shukla-1a229b27b/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-350%2B%20Solved-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117)](https://leetcode.com/u/Vivek_Shukla_25/)
-[![Email](https://img.shields.io/badge/Email-vivek25tech%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:vivek25tech@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:vivek25tech@gmail.com)
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2f8d46&labelColor=0d1117)](https://www.geeksforgeeks.org/profile/7800652515vivek/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Certified-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2ec866&labelColor=0d1117)](https://www.hackerrank.com/profile/vivek25tech)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=0d1117)](https://www.geeksforgeeks.org/profile/7800652515vivek/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Certified-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866&labelColor=0d1117)](https://www.hackerrank.com/profile/vivek25tech)
 [![Codolio](https://img.shields.io/badge/Codolio-Vivek__Tech-0d1117?style=for-the-badge&logoColor=00d4ff&labelColor=0d1117)](https://codolio.com/profile/Vivek_Tech)
 [![Medium](https://img.shields.io/badge/Medium-Blog-0d1117?style=for-the-badge&logo=medium&logoColor=ffffff&labelColor=0d1117)](https://medium.com/@7800652515vivek)
 
@@ -42,9 +44,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=VivekShukla-2504&label=PROFILE+VIEWS&style=flat-square&color=00d4ff&labelColor=0d1117)
-![Followers](https://img.shields.io/github/followers/VivekShukla-2504?style=flat-square&color=00d4ff&labelColor=0d1117&logo=github)
-![Stars](https://img.shields.io/github/stars/VivekShukla-2504?affiliations=OWNER&style=flat-square&color=7c3aed&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=VivekShukla-2504&label=PROFILE+VIEWS&style=for-the-badge&color=00d4ff&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/VivekShukla-2504?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=github&logoColor=00d4ff)
+![Stars](https://img.shields.io/github/stars/VivekShukla-2504?affiliations=OWNER&style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=github&logoColor=00d4ff)
 
 </div>
 
@@ -56,34 +58,18 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
-## 🧬 `whoami`
+## 👋 About Me
 
-```typescript
-const vivek: Developer = {
-  name:       "Vivek Shukla",
-  education:  "MCA @ Jawaharlal Nehru University",
-  role:       "MERN Stack Developer",
+I'm **Vivek Shukla**, a **MERN Stack Developer** and **AI enthusiast**, currently pursuing my **MCA at Jawaharlal Nehru University**. I love building full-stack web applications and exploring how AI can make products smarter and more useful.
 
-  frontend:   ["React", "Tailwind CSS", "Bootstrap", "Vite"],
-  backend:    ["Node.js", "Express.js", "REST APIs", "JWT"],
-  database:   ["MongoDB", "MySQL", "Redis"],
-  languages:  ["Java", "Python", "JavaScript", "TypeScript"],
-  aiml:       ["Python", "TensorFlow", "OpenCV", "Gemini API"],
-  tools:      ["Git", "Docker", "Postman", "Linux", "AWS"],
+On the frontend I work with **React, Tailwind CSS, Bootstrap** and **Vite**, and on the backend I build with **Node.js, Express.js** and **REST APIs**, backed by **MongoDB, MySQL** and **Redis**. I also write **Java** and **Python** regularly — Java for DSA, and Python for AI/ML work with **TensorFlow**, **OpenCV** and the **Gemini API**.
 
-  interests:  [
-    "Full-Stack Web Development",
-    "Artificial Intelligence 🤖",
-    "Data Structures & Algorithms",
-    "System Design 🏗",
-  ],
-};
-```
+Beyond web development, I'm passionate about **Data Structures & Algorithms**, **System Design**, and building projects that solve real problems. Right now my focus is sharpening my **MERN stack skills** alongside consistent **DSA practice in Java**, and I'm actively **open to internships and full-time SDE roles**.
 
 </td>
-<td width="45%">
+<td width="45%" valign="top">
 
 ## ⚡ Quick Facts
 
@@ -103,11 +89,107 @@ const vivek: Developer = {
    MERN Stack + DSA in Java
 
 🏆 Achievements:
-   - 350+ DSA Problems Solved
-   - 15+ Projects Built
-   - HackerRank SE Certified
-   - Open to Internships & Full-Time Roles
+   ✔ 350+ DSA Problems Solved
+   ✔ 15+ Projects Built
+   ✔ HackerRank SE Certified
+   ✔ Open to Internships & Full-Time Roles
 ```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-00d4ff?style=for-the-badge&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/Focus-MERN%20%2B%20DSA-7c3aed?style=for-the-badge&labelColor=0d1117)
+![Location](https://img.shields.io/badge/Based%20in-New%20Delhi%2C%20India-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117&logoColor=00d4ff)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED TECH STACK                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Arsenal
+
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python"/>
+<img src="https://skillicons.dev/icons?i=javascript&theme=dark" title="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=typescript&theme=dark" title="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5"/>
+<img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3"/>
+<img src="https://skillicons.dev/icons?i=sql&theme=dark" title="SQL"/>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### ⚛️ Frontend
+
+<img src="https://skillicons.dev/icons?i=react&theme=dark" title="React.js"/>
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" title="Bootstrap"/>
+<img src="https://skillicons.dev/icons?i=vite&theme=dark" title="Vite"/>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🌐 Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js"/>
+<img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express.js"/>
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL"/>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" title="Redis"/>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### ⚙️ Tools & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker"/>
+<img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub"/>
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux"/>
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code"/>
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman"/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS"/>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🧠 AI / ML
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python"/>
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" title="TensorFlow"/>
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" title="OpenCV"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" align="center" valign="top">
+
+### 📊 Data & Reporting
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
 </td>
 </tr>
@@ -116,77 +198,19 @@ const vivek: Developer = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED TECH STACK                     -->
+<!--                  GITHUB ANALYTICS DASHBOARD                -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🛠 Tech Arsenal
+## 📈 GitHub Analytics
 
 <div align="center">
 
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java"/>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python"/>
-<img src="https://skillicons.dev/icons?i=javascript&theme=dark" title="JavaScript"/>
-<img src="https://skillicons.dev/icons?i=typescript&theme=dark" title="TypeScript"/>
-<img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5"/>
-<img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3"/>
-<img src="https://skillicons.dev/icons?i=sql&theme=dark" title="SQL"/>
-</p>
-
-### ⚛ Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react&theme=dark" title="React.js"/>
-<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS"/>
-<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" title="Bootstrap"/>
-<img src="https://skillicons.dev/icons?i=vite&theme=dark" title="Vite"/>
-</p>
-
-### 🌐 Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js"/>
-<img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express.js"/>
-</p>
-
-### 🗄 Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL"/>
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB"/>
-<img src="https://skillicons.dev/icons?i=redis&theme=dark" title="Redis"/>
-</p>
-
-### ⚙ Tools & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker"/>
-<img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git"/>
-<img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub"/>
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux"/>
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code"/>
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman"/>
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS"/>
-</p>
-
-### 🧠 AI / ML
-<p>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python"/>
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" title="TensorFlow"/>
-<img src="https://skillicons.dev/icons?i=opencv&theme=dark" title="OpenCV"/>
-</p>
-
-### 📊 Data & Reporting
-<p>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VivekShukla-2504&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekShukla-2504&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  GITHUB ANALYTICS DASHBOARD                -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🔥 Contribution Streak
 
@@ -216,28 +240,40 @@ const vivek: Developer = {
 
 ### ⚡ MERN Stack Projects
 
+<div align="center">
+
 | Project | Description | Repo |
-|---|---|---|
-| 🤖 **Gen-AI Interview Platform** | AI-powered interview prep with resume analysis, JD matching & question generation (Gemini API, JWT) | [GitHub](https://github.com/VivekShukla-2504/Gen-AI) |
-| 💬 **Streamify** | Real-time messaging platform — typing indicators, reactions, video calls, screen sharing | [GitHub](https://github.com/VivekShukla-2504/Streamify) |
-| 📊 **AI Invoice SaaS Platform** | Full-stack SaaS invoice management with secure auth & scalable architecture | [GitHub](https://github.com/VivekShukla-2504/AI-Invoice-SaaS-Platform) |
-| 🚛 **TransitOps** | Transport operations platform — vehicle, driver, trip, maintenance & analytics dashboards | [GitHub](https://github.com/VivekShukla-2504/TransitOps-Platform) |
+|:---|:---|:---:|
+| 🤖 **Gen-AI Interview Platform** | AI-powered interview prep with resume analysis, JD matching & question generation (Gemini API, JWT) | [![Repo](https://img.shields.io/badge/View-0d1117?style=flat-square&logo=github&logoColor=00d4ff)](https://github.com/VivekShukla-2504/Gen-AI) |
+| 💬 **Streamify** | Real-time messaging platform — typing indicators, reactions, video calls, screen sharing | [![Repo](https://img.shields.io/badge/View-0d1117?style=flat-square&logo=github&logoColor=00d4ff)](https://github.com/VivekShukla-2504/Streamify) |
+| 📊 **AI Invoice SaaS Platform** | Full-stack SaaS invoice management with secure auth & scalable architecture | [![Repo](https://img.shields.io/badge/View-0d1117?style=flat-square&logo=github&logoColor=00d4ff)](https://github.com/VivekShukla-2504/AI-Invoice-SaaS-Platform) |
+| 🚛 **TransitOps** | Transport operations platform — vehicle, driver, trip, maintenance & analytics dashboards | [![Repo](https://img.shields.io/badge/View-0d1117?style=flat-square&logo=github&logoColor=00d4ff)](https://github.com/VivekShukla-2504/TransitOps-Platform) |
+
+</div>
 
 ### 🐍 Python / AI / ML Projects
 
+<div align="center">
+
 | Project | Description | Repo |
-|---|---|---|
-| 🤖 **AI Job Recommendation System** | Rule-based job matching engine built with Python + Prolog + Flask | [GitHub](https://github.com/VivekShukla-2504/AI-project) |
-| 📩 **SMS Spam Classifier** | NLP-based spam detector using Multinomial Naive Bayes | [GitHub](https://github.com/VivekShukla-2504/gui/tree/main/sms%20classifier) |
-| 🪟 **Window Resizer Tool** | Desktop automation utility built with PyAutoGUI | [GitHub](https://github.com/VivekShukla-2504/gui/blob/main/window%20resizer.py) |
+|:---|:---|:---:|
+| 🤖 **AI Job Recommendation System** | Rule-based job matching engine built with Python + Prolog + Flask | [![Repo](https://img.shields.io/badge/View-0d1117?style=flat-square&logo=github&logoColor=00d4ff)](https://github.com/VivekShukla-2504/AI-project) |
+| 📩 **SMS Spam Classifier** | NLP-based spam detector using Multinomial Naive Bayes | [![Repo](https://img.shields.io/badge/View-0d1117?style=flat-square&logo=github&logoColor=00d4ff)](https://github.com/VivekShukla-2504/gui/tree/main/sms%20classifier) |
+| 🪟 **Window Resizer Tool** | Desktop automation utility built with PyAutoGUI | [![Repo](https://img.shields.io/badge/View-0d1117?style=flat-square&logo=github&logoColor=00d4ff)](https://github.com/VivekShukla-2504/gui/blob/main/window%20resizer.py) |
+
+</div>
 
 ### 🌐 HTML / CSS / JavaScript Projects
 
+<div align="center">
+
 | Project | Description | Repo |
-|---|---|---|
-| ⚖️ **BMI Calculator** | Interactive BMI calculator with responsive UI | [GitHub](https://github.com/VivekShukla-2504/MERN/tree/main/BMI_Index) |
-| 🎯 **Guess Number Game** | JS-based interactive number guessing game | [GitHub](https://github.com/VivekShukla-2504/MERN/tree/main/guess_number) |
-| 🎨 **Web Window Color Changer** | DOM manipulation mini-project | [GitHub](https://github.com/VivekShukla-2504/MERN/tree/main/Webwindow_color_change) |
+|:---|:---|:---:|
+| ⚖️ **BMI Calculator** | Interactive BMI calculator with responsive UI | [![Repo](https://img.shields.io/badge/View-0d1117?style=flat-square&logo=github&logoColor=00d4ff)](https://github.com/VivekShukla-2504/MERN/tree/main/BMI_Index) |
+| 🎯 **Guess Number Game** | JS-based interactive number guessing game | [![Repo](https://img.shields.io/badge/View-0d1117?style=flat-square&logo=github&logoColor=00d4ff)](https://github.com/VivekShukla-2504/MERN/tree/main/guess_number) |
+| 🎨 **Web Window Color Changer** | DOM manipulation mini-project | [![Repo](https://img.shields.io/badge/View-0d1117?style=flat-square&logo=github&logoColor=00d4ff)](https://github.com/VivekShukla-2504/MERN/tree/main/Webwindow_color_change) |
+
+</div>
 
 ---
 
@@ -288,7 +324,7 @@ const vivek: Developer = {
 <div align="center">
 
 | Platform | Link | Purpose |
-|---|---|---|
+|:---:|:---|:---|
 | 💼 LinkedIn | [vivek-shukla-1a229b27b](https://www.linkedin.com/in/vivek-shukla-1a229b27b/) | Professional Network |
 | 🐙 GitHub | [VivekShukla-2504](https://github.com/VivekShukla-2504) | Code & Projects |
 | 🧩 LeetCode | [Vivek_Shukla_25](https://leetcode.com/u/Vivek_Shukla_25/) | DSA Practice |
@@ -296,7 +332,7 @@ const vivek: Developer = {
 | 🔵 Codolio | [Vivek_Tech](https://codolio.com/profile/Vivek_Tech) | Aggregated Coding Profile |
 | 🟣 HackerRank | [vivek25tech](https://www.hackerrank.com/profile/vivek25tech) | Certifications |
 | ⚪ Medium | [@7800652515vivek](https://medium.com/@7800652515vivek) | Technical Writing |
-| 📧 Email | [vivek25tech@gmail.com](mailto:vivek25tech@gmail.com) | Collaborations & Hiring |
+| 📧 Email | [Contact Me](mailto:vivek25tech@gmail.com) | Collaborations & Hiring |
 
 </div>
 
