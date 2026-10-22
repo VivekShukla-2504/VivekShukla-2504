@@ -14,7 +14,7 @@
 <!--                     TYPEWRITER EFFECT                      -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=940&height=60&lines=Full-Stack+Software+Engineer+(FAANG+SDE)+%F0%9F%9A%80;Autonomous+AI+Agent+Builder+(LangGraph)+%F0%9F%A4%96;Data+%26+Quantitative+Risk+Analyst+%F0%9F%93%8A;Business+Development+%26+Client+Counseling+%F0%9F%92%BC;400%2B+DSA+Problems+Solved+in+Java+%E2%9A%A1;MCA+Scholar+%40+JNU+New+Delhi+%F0%9F%8E%93)](https://vivek-tech-22.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=940&height=60&lines=Aspiring+FAANG+SDE+%E2%80%A2+Full-Stack+Engineer+%F0%9F%9A%80;Autonomous+AI+Agent+Builder+(LangGraph)+%F0%9F%A4%96;Data+%26+Quantitative+Risk+Analyst+%F0%9F%93%8A;Business+Development+%26+Client+Counseling+%F0%9F%92%BC;400%2B+DSA+Problems+Solved+in+Java+%E2%9A%A1;MCA+Scholar+%40+JNU+New+Delhi+%F0%9F%8E%93)](https://vivek-tech-22.netlify.app/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3600&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=840&height=38&lines=Java+DSA+%C2%B7+MERN+Stack+%C2%B7+FastAPI+%C2%B7+LangGraph+%C2%B7+Docker+%C2%B7+Python+%C2%B7+SQL;Building+Fault-Tolerant+Distributed+Architectures+%26+Agentic+Pipelines)](https://vivek-tech-22.netlify.app/)
 
@@ -184,7 +184,7 @@ I am a **Software Development Engineer & AI Systems Specialist**, currently purs
 <td>
 <code>FastAPI</code> <code>Scikit-learn</code> <code>TF-IDF</code> <code>Python</code> <code>React</code> <code>MongoDB</code><br><br>
 <a href="https://research-ai-opal-two.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00d4ff?style=flat-square&logo=vercel&logoColor=07090e"/></a>
-<a href="https://github.com/VivekShukla-2504/ResearchAI-"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=00d4ff"/></a>
+<a href="https://github.com/VivekShukla-2504/ResearchAI"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=00d4ff"/></a>
 </td>
 </tr>
 
@@ -202,7 +202,7 @@ I am a **Software Development Engineer & AI Systems Specialist**, currently purs
 <td>
 <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB Atlas</code> <code>Leaflet</code> <code>JWT</code><br><br>
 <a href="https://transitops.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00d4ff?style=flat-square&logo=vercel&logoColor=07090e"/></a>
-<a href="https://github.com/VivekShukla-2504/Transit-Deploy-"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=00d4ff"/></a>
+<a href="https://github.com/VivekShukla-2504/Transit-Deploy"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=00d4ff"/></a>
 </td>
 </tr>
 
@@ -237,7 +237,7 @@ I am a **Software Development Engineer & AI Systems Specialist**, currently purs
 </td>
 <td>
 <code>Solidity</code> <code>Ethereum</code> <code>Ethers.js</code> <code>React</code> <code>Node.js</code> <code>IPFS</code><br><br>
-<a href="https://certchain-deploy.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00d4ff?style=flat-square&logo=vercel&logoColor=07090e"/></a>
+<a href="https://github.com/VivekShukla-2504/CERTCHAIN#readme"><img src="https://img.shields.io/badge/Sepolia-Testnet_Contract-627EEA?style=flat-square&logo=ethereum&logoColor=white"/></a>
 <a href="https://github.com/VivekShukla-2504/CERTCHAIN"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=00d4ff"/></a>
 </td>
 </tr>
@@ -261,7 +261,7 @@ I am a **Software Development Engineer & AI Systems Specialist**, currently purs
 |:---|:---|:---|:---:|
 | 💬 **Streamify** | High-concurrency real-time communication platform with instant typing indicators, emoji reactions, peer-to-peer WebRTC video calling, dynamic screen sharing, and theme synchronization. | `React` `Node.js` `Express` `Socket.io` `WebRTC` `Tailwind` | [![View Code](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00d4ff)](https://github.com/VivekShukla-2504/Streamify) |
 | 📊 **AI Invoice SaaS Platform** | Multi-tenant billing and invoice lifecycle management platform featuring secure JWT authentication, client tracking, dynamic invoice generation, and financial accounting reports. | `React` `Node.js` `Express` `MongoDB` `Stripe` `JWT` | [![View Code](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00d4ff)](https://github.com/VivekShukla-2504/AI-Invoice-SaaS-Platform) |
-| 🚛 **TransitOps Fleet** | Logistics and fleet tracking platform coordinating vehicles, drivers, duty rosters, and routes across 4 user roles with Leaflet maps. | `React` `Node.js` `Express` `MongoDB Atlas` `Leaflet` | [![View Code](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00d4ff)](https://github.com/VivekShukla-2504/Transit-Deploy-) |
+| 🚛 **TransitOps Fleet** | Logistics and fleet tracking platform coordinating vehicles, drivers, duty rosters, and routes across 4 user roles with Leaflet maps. | `React` `Node.js` `Express` `MongoDB Atlas` `Leaflet` | [![View Code](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00d4ff)](https://github.com/VivekShukla-2504/Transit-Deploy) |
 
 <br>
 
@@ -372,6 +372,14 @@ Data Analytics: Python Pandas • NumPy • Actuarial Loss Ratios • Claim Freq
 </td>
 <td width="50%" align="center" valign="middle">
 <img width="100%" src="https://streak-stats.demolab.com?user=VivekShukla-2504&theme=tokyonight&hide_border=true&background=07090e&stroke=00d4ff&ring=00d4ff&fire=8b5cf6&currStreakNum=ffffff&sideNums=94a3b8&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=94a3b8&cache_seconds=86400"/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="middle">
+<a href="https://leetcode.com/u/Vivek_Shukla_25/"><img width="100%" src="https://leetcard.jacoblin.cool/Vivek_Shukla_25?theme=dark&font=JetBrains%20Mono" alt="Vivek Shukla LeetCode Card"/></a>
+</td>
+<td width="50%" align="center" valign="middle">
+<img width="100%" src="assets/skills-chart.svg" alt="Skill Proficiency Chart"/>
 </td>
 </tr>
 </table>

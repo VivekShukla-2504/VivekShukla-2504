@@ -1,13 +1,8 @@
 name: 📊 Update GitHub Metrics
 
 on:
-  schedule:
-    # Runs every day at 00:00 UTC
-    - cron: "0 0 * * *"
+  # Trigger manually via Actions tab
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   github-metrics:
@@ -21,8 +16,9 @@ jobs:
     steps:
       - name: 📊 Core Metrics (Overview)
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: VivekShukla-2504
           template: classic
           base: header, activity, community, repositories, metadata
@@ -34,8 +30,9 @@ jobs:
 
       - name: 📈 Language Activity
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: VivekShukla-2504
           template: classic
           base: ""
@@ -49,8 +46,9 @@ jobs:
 
       - name: 🏆 Achievements & Stats
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: VivekShukla-2504
           template: classic
           base: ""
@@ -62,9 +60,11 @@ jobs:
           output_action: commit
 
       - name: 💬 WakaTime Coding Stats
+        if: ${{ secrets.WAKATIME_TOKEN != '' }}
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: VivekShukla-2504
           template: classic
           base: ""
