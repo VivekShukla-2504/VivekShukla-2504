@@ -1,9 +1,9 @@
 name: 🔄 Auto Update Profile README
 
 on:
-  schedule:
-    # Runs every 6 hours
-    - cron: "0 */6 * * *"
+  # Cron schedule disabled: README already uses live shields/dynamic metrics, 
+  # and JacobLinCool action gets rate-limited/blocked by Cloudflare.
+  # You can trigger manually via the "Actions" tab if needed.
   workflow_dispatch:
 
 jobs:
@@ -11,6 +11,9 @@ jobs:
     name: Update README with Live Data
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
+    permissions:
+      contents: write
 
     steps:
       - name: 📥 Checkout Repository
@@ -21,6 +24,7 @@ jobs:
       # ─── Update LeetCode Stats ────────────────────────────────
       - name: 🧩 Fetch LeetCode Stats
         uses: JacobLinCool/LeetCode-Stats-Card@main
+        continue-on-error: true
         with:
           username: Vivek_Shukla_25
           theme: dark
