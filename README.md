@@ -237,7 +237,7 @@ I am a **Software Development Engineer & AI Systems Specialist**, currently purs
 </td>
 <td>
 <code>Solidity</code> <code>Ethereum</code> <code>Ethers.js</code> <code>React</code> <code>Node.js</code> <code>IPFS</code><br><br>
-<a href="https://github.com/VivekShukla-2504/CERTCHAIN#readme"><img src="https://img.shields.io/badge/Sepolia-Testnet_Contract-627EEA?style=flat-square&logo=ethereum&logoColor=white"/></a>
+<a href="https://certchain-puce.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00d4ff?style=flat-square&logo=vercel&logoColor=07090e"/></a>
 <a href="https://github.com/VivekShukla-2504/CERTCHAIN"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=00d4ff"/></a>
 </td>
 </tr>
